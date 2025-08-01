@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradeCalculator", "GradeCalculator\GradeCalculator.csproj", "{947364F3-5BEB-4926-9928-6D98872E4B9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketPriceCalculator", "TicketPriceCalculator\TicketPriceCalculator.csproj", "{4502E1B9-1F97-417F-9AC4-51B32B4394CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{947364F3-5BEB-4926-9928-6D98872E4B9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{947364F3-5BEB-4926-9928-6D98872E4B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{947364F3-5BEB-4926-9928-6D98872E4B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{947364F3-5BEB-4926-9928-6D98872E4B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4502E1B9-1F97-417F-9AC4-51B32B4394CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4502E1B9-1F97-417F-9AC4-51B32B4394CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4502E1B9-1F97-417F-9AC4-51B32B4394CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4502E1B9-1F97-417F-9AC4-51B32B4394CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBAFC736-F09E-4CE2-8B61-2B4C7D76A27F}
+	EndGlobalSection
+EndGlobal
